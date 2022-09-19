@@ -10,4 +10,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz
 tar xvzf xmrig-6.17.0-linux-x64.tar.gz
 cd xmrig-6.17.0
-./xmrig -o us-west.minexmr.com:443 -u 8A6cdvshzV4dEWthU6fdgjMoJaNgwTn7rLDSdpLoKtHrQ83cdQCWtQQe6HGDrnYv5Z3zUfGuKSR8AByBGpgVPkc8Kp95en3 -k --tls --rig-id GC-US
+./xmrig --donate-level 1 -o rx.unmineable.com:3333 -u XMR:8BnqztHLSCNF6pq3zT3Urqfptawq2WhSLAqD58GBzgn8HJJggHpTFGV9fh6jXdJMMmBXnQsoxo4VtKNYRfGWoj8z23t6qK8.BrunoMiner4 -p x -k -a rx/0
